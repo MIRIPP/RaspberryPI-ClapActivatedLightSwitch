@@ -19,14 +19,6 @@ data = 0
 m_light = True
 
 
-# GPIO
-gpio.setmode(gpio.BOARD)
-gpio.setwarnings(False)
-gpio.setup(19, gpio.OUT)
-gpio.setup(21, gpio.OUT)
-gpio.setup(23, gpio.OUT)
-gpio.setup(35, gpio.OUT)
-
 # parameter for corss correlation
 scope =100
 d =0
