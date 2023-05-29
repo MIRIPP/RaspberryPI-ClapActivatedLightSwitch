@@ -30,7 +30,7 @@ To start using the system, follow these steps:
 - Set up and install the Raspberry Pi according to the manufacturer's instructions.
 - Download the necessary libraries and drivers for the ADCS1115 and the DEBO 433 RX/TX Module.
 - Install Apache by running the command: $sudo apt-get install apache2.
-- Save the "home_system.py" file on your Raspberry Pi's desktop and configure it to run automatically upon boot..
+- Save the "home_system.py" file on your Raspberry Pi's desktop and configure it to run automatically upon boot.
 - Save the "home_automation.php" file in your default web root directory "/var/www/html" on the Raspberry Pi.
 - Discover the IP address of your Raspberry Pi and enter it on your device, which is connected to the same Wi-Fi network as your Raspberry Pi. This will enable you to control the lights using your mobile device or computer.
 
