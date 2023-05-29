@@ -18,9 +18,12 @@ This documentation will guide you through the setup and configuration of the cla
 
 ## Wiring Diagram
 Input - Microphone:
+
 |Raspberry Pi|<------I2C------|ADCS1115|<--------|LM2904|
 
+
 Output - Wireless Power Outlets:
+
 |Raspberry Pi|--------->| 433 MHz TX Modul|----Wireless---->|433MHz Wireless Power Outlets|------230V------>|Light|
 
 ## Getting Started
