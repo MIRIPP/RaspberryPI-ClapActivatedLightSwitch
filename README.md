@@ -35,6 +35,6 @@ To start using the system, follow these steps:
 - Discover the IP address of your Raspberry Pi and enter it on your device, which is connected to the same Wi-Fi network as your Raspberry Pi. This will enable you to control the lights using your mobile device or computer.
 
 Troubleshooting:
-- Depending on your 433MHz Wireless Power Outlets you might have to change the code for the 433 MHz TX Modul in the home_system.py script. Therefor use the 433 MHz RX Module and sniff the signal sended by the remote of the 433MHz Wireless Power Outlets with the raspberry pi.
+- Depending on your 433MHz Wireless Power Outlets you might have to change the code for the 433 MHz TX Modul in the home_system.py script. Therefor use the 433 MHz RX Module and sniff the signal sended by the remote of the 433MHz Wireless Power Outlets.
 
 ## Demo & Pictures
